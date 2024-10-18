@@ -1,5 +1,5 @@
 # Bentofolio
-Inspired by this Figma Template from ![@lilcoderman](https://www.figma.com/@lilcoderman): ![Template](https://www.figma.com/community/file/1408441048826723944/bentolio)
+Inspired by this Figma Template from [@lilcoderman](https://www.figma.com/@lilcoderman): [Template](https://www.figma.com/community/file/1408441048826723944/bentolio)
 
 ## 🧞 Commands
 
